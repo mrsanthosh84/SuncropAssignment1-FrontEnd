@@ -22,7 +22,7 @@ See the section about [running tests] for more information.
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### `Instruction Usage`
+### `Instructions`
 
 - Checkout the code from github Respository (https://github.com/mrsanthosh84/SuncropAssignment1-FrontEnd)
 - Run `npm install`
@@ -30,7 +30,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 - For testing run `yarn test`
 
 ### `Screenshot`
-Attached all pages of screens in the screenshot folder
+Attached all pages of screen in the screenshot folder
 
 ### `Run the Application`
 Need to make sure your backend code run first before running an application (http://localhost:3000)
