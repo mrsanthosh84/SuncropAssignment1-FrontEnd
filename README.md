@@ -1,4 +1,4 @@
-#Suncrop Assignment 1 - Front end using ReactJs with Redux
+# Suncrop Assignment 1 - Front end using ReactJs with Redux
 
 ## Available Scripts
 
