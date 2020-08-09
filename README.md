@@ -33,4 +33,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 Attached all pages of screens in the screenshot folder
 
 ### `Run the Application`
-After starting the application, run `http://localhost:3000`. Need to make sure your backend code run first before running an application.
+Need to make sure your backend code run first before running an application (http://localhost:3000)
+
